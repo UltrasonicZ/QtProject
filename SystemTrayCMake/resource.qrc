@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/AUTH.ico</file>
+    </qresource>
+</RCC>
